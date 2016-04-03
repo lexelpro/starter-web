@@ -9,6 +9,10 @@ This is example is to show different parts of the Git repository and various com
 
 ## Purpose
 
+fwefwfw wqefqwefqw qgwgwqg wqgqw gqrg erge 
+
 ##Deployment
+
+This is a simple web projects.
 
 ## How To Contribute
