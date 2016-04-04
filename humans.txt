@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alex Brykalov alex.brykalov@gmail.com
 
 # THANKS
 
