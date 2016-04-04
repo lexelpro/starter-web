@@ -17,6 +17,8 @@ This is a simple web projects.
 
 ## How To Contribute
 
+Please fork this repository
+
 ## Copyright
 
 2016 Alex Brykalov
