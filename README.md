@@ -9,10 +9,14 @@ This is example is to show different parts of the Git repository and various com
 
 ## Purpose
 
-fwefwfw wqefqwefqw qgwgwqg wqgqw gqrg erge 
+As stated above, the main purpose is to provide simple example for Git training demos.
 
-##Deployment
+## Deployment
 
 This is a simple web projects.
 
 ## How To Contribute
+
+## Copyright
+
+2016 Alex Brykalov
