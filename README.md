@@ -21,4 +21,4 @@ Please fork this repository
 
 ## Copyright
 
-2016 Alex Brykalov
+2016 Alex Brykalov. All rights reserved
